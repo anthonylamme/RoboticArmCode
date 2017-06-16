@@ -1,3 +1,12 @@
+Useing Adafruit TCS34725 Sensor and library created Robotic Arm to sort packages in assembly line
+
+***
+Robotic_Arm_Code is the base code that was first created Arm. 
+Sophia is the modified code for the second created Arm. 
+
+
+
+
 #Adafruit TCS34725 Color Sensor Driver #
 
 This driver is for the Adafruit TCS34725 Breakout.
