@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-sudo python /home/pi/Scripts/Pick2Light/RaspberryPiCode/SLackBot/SlackBot.py & python grabserial | ts >> test.csv
+sudo python /home/pi/Scripts/Pick2Light/RaspberryPiCode/SLackBot/SlackBot.py & python /home/pi/grabserial |ts >> /home/pi/Scripts/RoboticArmCode/RpiAddtion/Bash/Data/test.csv
